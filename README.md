@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm nathangtg, a budding tech enthusiast with a passion for crafting digital experiences that bridge the gap between functionality and creativity. My journey in the tech world spans across a versatile stack, focusing on both the intricacies of mobile and web development.<br><br>📱 Mobile Development: I've delved into the world of Flutter and Dart, aiming to create seamless and responsive mobile applications that cater to a variety of needs.<br>
+👋 Hi there! I'm nathangtg, a tech student with a passion for crafting digital experiences that bridge the gap between functionality and creativity. My journey in the tech world spans across a versatile stack, focusing on both the intricacies of mobile and web development.<br><br>📱 Mobile Development: I've delved into the world of Flutter and Dart, aiming to create seamless and responsive mobile applications that cater to a variety of needs.<br>
 
 <br>💻 Frontend Technologies: My toolkit includes React, Vue, HTML, CSS, JS, Tailwind, and JQuery. I love bringing designs to life, ensuring they're not only visually appealing but also user-friendly.<br><br>🖥 Backend Expertise: I navigate the backend with Laravel, NextJS, NodeJS, and PHP. Building robust and scalable solutions that support the frontend is what I thrive on.<br>
 
