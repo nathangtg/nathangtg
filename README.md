@@ -44,4 +44,5 @@ I'm currently working on:
 
 ## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nathangtg&theme=tokyonight&hide_border=true)
+![Nathan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathangtg&theme=radical&exclude={exclude})
+![Nathan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathangtg&theme=radical&exclude={exclude})
