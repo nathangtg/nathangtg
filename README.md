@@ -1,6 +1,6 @@
 # About Me
 
-An art student turned into a technology student and is somehow surviving this field (barely)
+A music student turned into a technology student and is somehow surviving this field (barely)
 
 ## Expertise
 
