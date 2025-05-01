@@ -13,9 +13,9 @@
 
 ## About Me
 
-18-year-old software engineer with a unique journey from music student to tech innovator. Currently balancing education with professional engineering work, while creating open-source tools that are making an impact in the developer community.
+18-year-old software engineer with a unique journey from music student to your average tech bro. Currently balancing education with professional engineering work, while creating open-source tools that are making an impact in the developer community.
 
-> "From composing musical harmonies to architecting elegant code solutions"
+> "From composing musical harmonies to architecting elegant code solutions" ~ Yes I came up with this
 
 ## Career Highlights
 
@@ -171,5 +171,5 @@ I'm always open to interesting collaborations and projects. Feel free to reach o
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by a music student turned tech enthusiast</sub>
+  <sub>Built by a music student turned tech bro</sub>
 </div>
