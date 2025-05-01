@@ -1,4 +1,4 @@
-# Nathan Aldyth Prananta Ginting
+# Nathan G.
 
 <div align="center">
   
@@ -11,13 +11,13 @@
   
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 18-year-old software engineer with a unique journey from music student to tech innovator. Currently balancing education with professional engineering work, while creating open-source tools that are making an impact in the developer community.
 
 > "From composing musical harmonies to architecting elegant code solutions"
 
-## 🚀 Career Highlights
+## Career Highlights
 
 - **Software Engineer (ML/AI Focus)** at **Labelbox, Inc** (Feb 2025 - Present)
   - Reduced API response times by 60% with Redis caching implementation
@@ -29,7 +29,7 @@
   - Improved CI/CD pipeline reliability from 75% to 89.5%
   - Enabled 800+ concurrent UI and API tests with hybrid execution approach
 
-## 🔥 Current Projects
+## Featured Projects
 
 <div align="center">
   <table>
@@ -79,7 +79,7 @@
   </table>
 </div>
 
-## 💼 Professional Experience
+## Professional Experience
 
 ```mermaid
 gantt
@@ -97,7 +97,7 @@ gantt
     Software Engineer (Labelbox, Inc)   :2025-02, 2025-08
 ```
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 ### Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -149,14 +149,14 @@ gantt
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathangtg&theme=radical" />
 </div>
 
-## 🎵 Beyond Coding
+## Beyond Coding
 
 When I'm not coding, you'll find me:
 - Sleeping
 - Eating and Drinking tea
 - Complaining
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always open to interesting collaborations and projects. Feel free to reach out!
 
