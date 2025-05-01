@@ -49,7 +49,7 @@
       <td width="50%">
         <h3 align="center">DynamoSQL</h3>
         <div align="center">
-          <a href="https://github.com/nathangtg/dynamosql" target="_blank">
+          <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/COMING SOON-2F3437?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
           </a>
         </div>
@@ -60,7 +60,7 @@
       <td width="50%">
         <h3 align="center">Appetite Connect</h3>
         <div align="center">
-          <a href="#" target="_blank">
+          <a href="https://github.com/nathangtg/appetite-ui-angular" target="_blank">
             <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white">
           </a>
         </div>
@@ -69,7 +69,7 @@
       <td width="50%">
         <h3 align="center">Binary Trails</h3>
         <div align="center">
-          <a href="#" target="_blank">
+          <a href="https://github.com/nathangtg/binary-trail" target="_blank">
             <img src="https://img.shields.io/badge/Play-40c463?style=for-the-badge&logo=v&logoColor=white">
           </a>
         </div>
