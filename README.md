@@ -57,15 +57,21 @@
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3 align="center">Appetite Connect</h3>
-        <div align="center">
-          <a href="https://github.com/nathangtg/appetite-ui-angular" target="_blank">
-            <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white">
-          </a>
-        </div>
-        <p><strong>Full-Stack Restaurant Management</strong> - Laravel API with JWT auth, Angular SPA with real-time updates, and Flutter Cashier App, reducing restaurant management time by 40%.</p>
-      </td>
+    <td width="50%">
+      <h3 align="center">Appetite Connect</h3>
+      <div align="center">
+        <a href="https://github.com/nathangtg/appetite-api" target="_blank">
+          <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+        </a>
+        <a href="https://github.com/nathangtg/appetite-ui-angular" target="_blank">
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+        </a>
+        <a href="https://github.com/nathangtg/appetite_connect_cashier_flutter" target="_blank">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+        </a>
+      </div>
+      <p><strong>Full-Stack Restaurant Management</strong> - Laravel API with JWT auth, Angular SPA with real-time updates, and Flutter Cashier App, reducing restaurant management time by 40%.</p>
+    </td>
       <td width="50%">
         <h3 align="center">Binary Trails</h3>
         <div align="center">
