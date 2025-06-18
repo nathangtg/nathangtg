@@ -95,7 +95,7 @@ gantt
     
     section Education
     Diploma in IT (Sunway College)      :2023-01, 2025-01
-    Bachelor of Software Engineering    :2025-04, 2027-04
+    Bachelor of Software Engineering (Sunway University - Lancaster University)   :2025-04, 2027-04
     
     section Work Experience
     IT Operations Staff Intern          :2022-01, 2022-06
