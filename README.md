@@ -100,7 +100,7 @@ gantt
     section Work Experience
     IT Operations Staff Intern          :2022-01, 2022-06
     SDE/SRE Intern (Valiram Group)      :2024-08, 2024-12
-    Software Engineer (Labelbox, Inc)   :2025-02, 2025-08
+    Software Engineer (Labelbox, Inc)   :2025-02, 2025-11
 ```
 
 ## 🛠Tech Stack
