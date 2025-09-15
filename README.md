@@ -30,10 +30,10 @@
   - Enabled 800+ concurrent UI and API tests with hybrid execution approach
 
 ## Featured Projects
-
 <div align="center">
   <table>
     <tr>
+      <!-- Jangular-CLI -->
       <td width="50%">
         <h3 align="center">Jangular-CLI</h3>
         <div align="center">
@@ -44,44 +44,41 @@
             <img src="https://img.shields.io/badge/NPM-cc3534?style=for-the-badge&logo=npm&logoColor=white">
           </a>
         </div>
-        <p><strong>Spring Boot + Angular</strong> - A CLI tool that reached 9,000+ downloads, cutting setup time by 60% with pre-built authentication, migrations, and 15+ API & UI routes.</p>
+        <p><strong>Spring Boot + Angular</strong> – A CLI tool that reached 9,000+ downloads, cutting setup time by 60% with pre-built authentication, migrations, and 15+ API & UI routes.</p>
       </td>
-<td width="50%">
-  <h3 align="center">AgentHub</h3>
-  <div align="center">
-    <a href="https://github.com/nathangtg/agent-hub" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub Repo-2F3437?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://youtu.be/54Q5zCX944E" target="_blank">
-      <img src="https://img.shields.io/badge/Video Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    </a>
-  </div>
-  <p><strong>AI Agent Hub</strong> – A centralized platform to create, manage, and orchestrate AI agents. Built with Next.js, TypeScript, and LangChain to simplify scaling and deployment.</p>
-</td>
-
+      <td width="50%">
+        <h3 align="center">AgentHub</h3>
+        <div align="center">
+          <a href="https://github.com/nathangtg/agent-hub" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub Repo-2F3437?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+          <a href="https://youtu.be/54Q5zCX944E" target="_blank">
+            <img src="https://img.shields.io/badge/Video Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+          </a>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        </div>
+        <p><strong>AI Agent Hub</strong> – A centralized platform to create, manage, and orchestrate AI agents. Built with Next.js, TypeScript, and LangChain to simplify scaling and deployment.</p>
+      </td>
     </tr>
     <tr>
-    <td width="50%">
-      <h3 align="center">Appetite Connect</h3>
-      <div align="center">
-        <a href="https://github.com/nathangtg/appetite-api" target="_blank">
-          <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-        </a>
-        <a href="https://github.com/nathangtg/appetite-ui-angular" target="_blank">
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-        </a>
-        <a href="https://github.com/nathangtg/appetite_connect_cashier_flutter" target="_blank">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-        </a>
-      </div>
-      <p><strong>Full-Stack Restaurant Management</strong> - Laravel API with JWT auth, Angular SPA with real-time updates, and Flutter Cashier App, reducing restaurant management time by 40%.</p>
-    </td>
+      <!-- Appetite Connect -->
+      <td width="50%">
+        <h3 align="center">Appetite Connect</h3>
+        <div align="center">
+          <a href="https://github.com/nathangtg/appetite-api" target="_blank">
+            <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+          </a>
+          <a href="https://github.com/nathangtg/appetite-ui-angular" target="_blank">
+            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+          </a>
+          <a href="https://github.com/nathangtg/appetite_connect_cashier_flutter" target="_blank">
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+          </a>
+        </div>
+        <p><strong>Full-Stack Restaurant Management</strong> – Laravel API with JWT auth, Angular SPA with real-time updates, and Flutter Cashier App, reducing restaurant management time by 40%.</p>
+      </td>
+      <!-- Binary Trails -->
       <td width="50%">
         <h3 align="center">Binary Trails</h3>
         <div align="center">
@@ -89,11 +86,12 @@
             <img src="https://img.shields.io/badge/Play-40c463?style=for-the-badge&logo=v&logoColor=white">
           </a>
         </div>
-        <p><strong>Developer Minigame</strong> - 10+ dynamic API challenges built with Nuxt.js 3, Flask, DynamoDB and AWS, featuring encrypted requests and progressive difficulty.</p>
+        <p><strong>Developer Minigame</strong> – 10+ dynamic API challenges built with Nuxt.js 3, Flask, DynamoDB, and AWS, featuring encrypted requests and progressive difficulty.</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 ## Professional Experience
 
