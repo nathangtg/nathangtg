@@ -46,15 +46,25 @@
         </div>
         <p><strong>Spring Boot + Angular</strong> - A CLI tool that reached 9,000+ downloads, cutting setup time by 60% with pre-built authentication, migrations, and 15+ API & UI routes.</p>
       </td>
-      <td width="50%">
-        <h3 align="center">DynamoSQL</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/COMING SOON-2F3437?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
-          </a>
-        </div>
-        <p><strong>TypeScript ORM</strong> - An upcoming project designed to bridge SQL developers and DynamoDB's learning curve, functioning as a Prisma-like ORM.</p>
-      </td>
+<td width="50%">
+  <h3 align="center">AgentHub</h3>
+  <div align="center">
+    <a href="https://github.com/nathangtg/agent-hub" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub Repo-2F3437?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://youtu.be/54Q5zCX944E" target="_blank">
+      <img src="https://img.shields.io/badge/Video Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    </a>
+  </div>
+  <p><strong>AI Agent Hub</strong> – A centralized platform to create, manage, and orchestrate AI agents. Built with Next.js, TypeScript, and LangChain to simplify scaling and deployment.</p>
+</td>
+
     </tr>
     <tr>
     <td width="50%">
