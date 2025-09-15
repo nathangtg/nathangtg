@@ -1,4 +1,4 @@
-# Nathan G. - Software Engineer & ML/AI Specialist
+# Nathan G. - Software Engineering Student
 
 <div align="center">
   
