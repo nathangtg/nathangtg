@@ -55,8 +55,6 @@
           <a href="https://youtu.be/54Q5zCX944E" target="_blank">
             <img src="https://img.shields.io/badge/Video Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
           </a>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         </div>
         <p><strong>AI Agent Hub</strong> – A centralized platform to create, manage, and orchestrate AI agents. Built with Next.js, TypeScript, and LangChain to simplify scaling and deployment.</p>
       </td>
