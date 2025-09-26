@@ -174,7 +174,7 @@ gantt
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangtg&layout=compact&langs_count=8&theme=tokyonight&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangtg&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook"/>
 </div>
 
 <div align="center">
