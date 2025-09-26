@@ -21,7 +21,7 @@ Passionate software engineer with proven experience delivering scalable solution
 
 ## 🚀 Professional Experience
 
-### **Software Engineer (ML/AI)** | Labelbox, Inc | *Feb 2025 - Present*
+### **Software Engineer (ML/AI)** | Labelbox, Inc | *Feb 2025 - Sep 2025*
 - **Performance Optimization:** Reduced API response times by 60% through strategic Redis caching implementation
 - **ML Model Enhancement:** Improved AI model consistency by 40% with refined rating algorithms and hyperparameter optimization
 - **Classification Accuracy:** Increased model accuracy from 82% to 95% through systematic tuning and validation
