@@ -39,7 +39,7 @@ Working on enterprise ML pipelines with measurable impact:
 - **800+ concurrent tests** - Designed hybrid execution architecture
 
 ### **IT Operations** | Don Bosco Education | *Jan 2022 - Jun 2022*
-*Where the journey began (at 16)*
+*First official tech gig*
 
 - **99.9% uptime** - Maintained Django platform for 400+ concurrent users
 - **80% efficiency gain** - Automated exam administration workflows
