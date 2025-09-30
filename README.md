@@ -1,4 +1,4 @@
-# Nathan G. - 18-Year-Old Building the Future 🚀
+# Nathan G.
 
 <div align="center">
   
