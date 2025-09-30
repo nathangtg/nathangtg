@@ -7,13 +7,13 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathangtgmy@gmail.com)
   [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8492-8094)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=18+%26+Already+Shipped+to+Production;51k%2B+Devs+Use+My+Tools;ML+Engineer+%40+Labelbox;Research+Published+%40+Zenodo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Continuously+Learning;51k%2B+Devs+Use+My+Tools;Research+Published+%40+Zenodo" alt="Typing SVG" />
   
 </div>
 
-## 🎯 About Me
+## About Me
 
-I'm 18 and currently shipping ML/AI solutions to production at Labelbox while building open-source tools that 51,000+ developers use. In my 5th semester of Software Engineering, balancing academics with real-world projects that matter.
+currently shipping ML/AI solutions to production at Labelbox while building open-source tools that 51,000+ developers use. In my 5th semester of Software Engineering, balancing academics with real-world projects that matter.
 
 **What drives me:** Creating developer tools that actually solve problems and make workflows better.
 
@@ -21,10 +21,10 @@ I'm 18 and currently shipping ML/AI solutions to production at Labelbox while bu
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Software Engineer (ML/AI)** | Labelbox, Inc | *Feb 2025 - Sep 2025*
-*Remote from Malaysia 🇲🇾 → San Francisco 🇺🇸*
+*Remote from Malaysia → San Francisco*
 
 Working on enterprise ML pipelines with measurable impact:
 - **60% faster API responses** - Implemented Redis caching for critical endpoints
@@ -47,13 +47,13 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## 🛠 Featured Projects
+## Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔥 Jangular-CLI</h3>
+        <h3 align="center">Jangular-CLI</h3>
         <div align="center">
           <a href="https://github.com/nathangtg/jangular-cli" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -65,12 +65,12 @@ Working on enterprise ML pipelines with measurable impact:
           <img src="https://img.shields.io/npm/dt/jangular-cli?style=flat-square&color=success" alt="Downloads">
         </div>
         <p><strong>Spring Boot + Angular Development CLI</strong><br>
-        🔥 <strong>51,000+ downloads</strong> (9k in first 5 hours)<br>
-        ⚡ 60% faster project setup, 40% less boilerplate<br>
-        💡 Pre-configured auth, migrations, and 15+ API routes</p>
+        <strong>51,000+ downloads</strong> (9k in first 5 hours)<br>
+        60% faster project setup, 40% less boilerplate<br>
+        Pre-configured auth, migrations, and 15+ API routes</p>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 AgentHub</h3>
+        <h3 align="center">AgentHub</h3>
         <div align="center">
           <a href="https://github.com/nathangtg/agent-hub" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -80,19 +80,19 @@ Working on enterprise ML pipelines with measurable impact:
           </a>
         </div>
         <p><strong>Multi-Agent AI Orchestration Platform</strong><br>
-        🧠 9 specialized AI agents, 100+ integrated tools<br>
-        📈 300% developer productivity improvement<br>
-        🔒 Zero Trust security architecture</p>
+        9 specialized AI agents, 100+ integrated tools<br>
+        300% developer productivity improvement<br>
+        Zero Trust security architecture</p>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <h3 align="center">📚 Research Contributions</h3>
+        <h3 align="center">Research Contributions</h3>
         <p align="center">
           <strong>3 working papers on Zenodo</strong><br>
-          🔬 Agent Hub Architecture Framework<br>
-          🧬 Bio-Inspired Continual Learning Analysis<br>
-          🏗️ JAngular Full-Stack Framework Evaluation<br>
+          Agent Hub Architecture Framework<br>
+          Bio-Inspired Continual Learning Analysis<br>
+          JAngular Full-Stack Framework Evaluation<br>
         </p>
       </td>
     </tr>
@@ -101,9 +101,9 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## 🎓 Education
+## Education
 
-**Currently:** Bachelor of Software Engineering (Year 2/3) - CGPA: 3.67  (Dean's List Recipient)
+**Currently:** Bachelor of Software Engineering (Year 2/3) - CGPA: 3.67 (Dean's List Recipient)  
 *Sunway University × Lancaster University* | Semester 5/9
 
 **Completed:** Diploma in Information Technology - CGPA: 3.91 (Distinction)  
@@ -111,7 +111,7 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### **Primary Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -125,7 +125,9 @@ Working on enterprise ML pipelines with measurable impact:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### **Cloud & Infrastructure**
@@ -133,10 +135,11 @@ Working on enterprise ML pipelines with measurable impact:
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangtg&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook"/>
@@ -148,18 +151,18 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
-- 📦 **51,000+ NPM downloads** - Developer tools with proven adoption
-- ⚡ **60% performance improvement** in production ML APIs
-- 🎯 **95% AI model accuracy** - Systematic optimization and tuning
-- 📚 **3 research publications** - Contributing to computer science research
-- 🏅 **IEEE Eta Kappa Nu member** - Top 25% globally at age 18
-- 🔍 **JOSS peer reviewer** - Reviewing academic papers as an undergraduate
+- **51,000+ NPM downloads** - Developer tools with proven adoption
+- **60% performance improvement** in production ML APIs
+- **95% AI model accuracy** - Systematic optimization and tuning
+- **3 research publications** - Contributing to computer science research
+- **IEEE Eta Kappa Nu member** - Top 25% globally at age 18
+- **JOSS peer reviewer** - Reviewing academic papers as an undergraduate
 
 ---
 
-## 🌱 Current Interests
+## Current Interests
 
 - **Multi-agent systems** - Exploring coordination and orchestration patterns
 - **Performance optimization** - Making systems faster and more efficient
@@ -168,7 +171,7 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## 🤝 Community & Impact
+## Community & Impact
 
 **Open Source:** Building practical tools that solve real developer problems and contribute to the ecosystem
 
@@ -180,7 +183,7 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## 💭 Core Principles
+## Core Principles
 
 - **Ship early, iterate fast** - Continuous improvement over perfection
 - **Developer experience matters** - Good tools enable great software
@@ -189,7 +192,7 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## 🚀 Open to Opportunities
+## Open to Opportunities
 
 Interested in challenging projects with talented teams. Looking for:
 
