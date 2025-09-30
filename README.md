@@ -11,43 +11,43 @@
   
 </div>
 
-## 🎯 The Real Talk
+## 🎯 About Me
 
-currently shipping ML/AI stuff to production at Labelbox and have 51,000+ developers using my open-source tools. Currently in my 5th semester (halfway through my Software Engineering degree), balancing academics and real-world.
+I'm 18 and currently shipping ML/AI solutions to production at Labelbox while building open-source tools that 51,000+ developers use. In my 5th semester of Software Engineering, balancing academics with real-world projects that matter.
 
-**What drives me:** Building tools that people actually want to use
+**What drives me:** Creating developer tools that actually solve problems and make workflows better.
 
-**Currently seeing over:** Multi-agent AI systems, performance optimization, and figuring out how to make developer tools that don't suck.
+**Currently focused on:** Multi-agent AI systems, performance optimization, and improving developer experience through better tooling.
 
 ---
 
-## 💼 Experiences
+## 💼 Experience
 
 ### **Software Engineer (ML/AI)** | Labelbox, Inc | *Feb 2025 - Sep 2025*
 *Remote from Malaysia 🇲🇾 → San Francisco 🇺🇸*
 
-Hit different when you're optimizing enterprise ML pipelines:
-- **60% faster API responses** - Redis caching implementation that actually matters
-- **40% more consistent AI models** - Because inconsistent AI is basically useless AI
-- **82% → 95% accuracy** - Hyperparameter tuning and feature selection that shipped to prod
+Working on enterprise ML pipelines with measurable impact:
+- **60% faster API responses** - Implemented Redis caching for critical endpoints
+- **40% more consistent AI models** - Refined rating algorithms with better metrics
+- **82% → 95% accuracy** - Hyperparameter tuning and feature selection improvements
 
 ### **SDE/SRE Intern** | Valiram Group | *Aug 2024 - Dec 2024*
-*First taste of enterprise chaos*
+*Learning enterprise systems at scale*
 
-- **70% less manual testing** - Built automation frameworks that actually work
-- **75% → 89.5% pipeline reliability** - Because broken deployments at 2 AM aren't fun
-- **800+ concurrent tests** - Hybrid execution setup that doesn't crash
+- **70% reduction in manual testing** - Built comprehensive automation frameworks
+- **75% → 89.5% pipeline reliability** - Implemented automated failure detection
+- **800+ concurrent tests** - Designed hybrid execution architecture
 
 ### **IT Operations** | Don Bosco Education | *Jan 2022 - Jun 2022*
-*Where it all started (when I was 16)*
+*Where the journey began (at 16)*
 
-- **99.9% uptime** Django platform for 400+ users
-- **80% less manual work** for exam administration
-- **Learning:** Sometimes the best education happens outside the classroom
+- **99.9% uptime** - Maintained Django platform for 400+ concurrent users
+- **80% efficiency gain** - Automated exam administration workflows
+- **Key learning:** Real-world experience complements classroom education
 
 ---
 
-## 🛠 Projects That Actually Matter
+## 🛠 Featured Projects
 
 <div align="center">
   <table>
@@ -64,10 +64,10 @@ Hit different when you're optimizing enterprise ML pipelines:
           <br>
           <img src="https://img.shields.io/npm/dt/jangular-cli?style=flat-square&color=success" alt="Downloads">
         </div>
-        <p><strong>The CLI that Spring Boot + Angular devs actually use</strong><br>
+        <p><strong>Spring Boot + Angular Development CLI</strong><br>
         🔥 <strong>51,000+ downloads</strong> (9k in first 5 hours)<br>
-        ⚡ 60% faster project setup, 40% less backend boilerplate<br>
-        💡 Pre-configured auth, migrations, 15+ routes ready to go</p>
+        ⚡ 60% faster project setup, 40% less boilerplate<br>
+        💡 Pre-configured auth, migrations, and 15+ API routes</p>
       </td>
       <td width="50%">
         <h3 align="center">🤖 AgentHub</h3>
@@ -79,21 +79,20 @@ Hit different when you're optimizing enterprise ML pipelines:
             <img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
         </div>
-        <p><strong>Multi-agent AI orchestration that actually works</strong><br>
+        <p><strong>Multi-Agent AI Orchestration Platform</strong><br>
         🧠 9 specialized AI agents, 100+ integrated tools<br>
-        📈 300% dev productivity increase<br>
-        🔒 Zero Trust security model (because security matters)</p>
+        📈 300% developer productivity improvement<br>
+        🔒 Zero Trust security architecture</p>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <h3 align="center">📚 Research That's Getting Noticed</h3>
+        <h3 align="center">📚 Research Contributions</h3>
         <p align="center">
-          <strong>Published 3 research papers on Zenodo</strong><br>
+          <strong>3 working papers on Zenodo</strong><br>
           🔬 Agent Hub Architecture Framework<br>
           🧬 Bio-Inspired Continual Learning Analysis<br>
           🏗️ JAngular Full-Stack Framework Evaluation<br>
-          <em>Currently under review at Journal of Open-Source Software (JOSS)</em>
         </p>
       </td>
     </tr>
@@ -102,28 +101,26 @@ Hit different when you're optimizing enterprise ML pipelines:
 
 ---
 
-## 🎓 Education Status
+## 🎓 Education
 
-**Currently:** Bachelor of Software Engineering (Year 2/3) - CGPA: 3.67  
+**Currently:** Bachelor of Software Engineering (Year 2/3) - CGPA: 3.67  (Dean's List Recipient)
 *Sunway University × Lancaster University* | Semester 5/9
 
-**Completed:** Diploma in IT - CGPA: 3.91 (Dean's List)  
+**Completed:** Diploma in Information Technology - CGPA: 3.91 (Distinction)  
 *Sunway College* | Graduated at 17
-
-**Learning Philosophy:** Formal education teaches you theory, real projects teach you what actually works.
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Languages I Actually Use**
+### **Primary Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Frameworks That Don't Make Me Cry**
+### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -151,58 +148,57 @@ Hit different when you're optimizing enterprise ML pipelines:
 
 ---
 
-## 🏆 Achievements That Actually Matter
+## 🏆 Key Achievements
 
-- 📦 **51,000+ NPM downloads** - Real developers using real tools
-- ⚡ **60% performance boost** in production ML APIs
-- 🎯 **95% AI model accuracy** - Because 82% wasn't good enough
-- 📚 **3 research publications** - Contributing to actual computer science
-- 🏅 **IEEE Eta Kappa Nu member** - Top 25% globally (at 18)
-- 🔍 **JOSS peer reviewer** - Reviewing research papers while still in undergrad
+- 📦 **51,000+ NPM downloads** - Developer tools with proven adoption
+- ⚡ **60% performance improvement** in production ML APIs
+- 🎯 **95% AI model accuracy** - Systematic optimization and tuning
+- 📚 **3 research publications** - Contributing to computer science research
+- 🏅 **IEEE Eta Kappa Nu member** - Top 25% globally at age 18
+- 🔍 **JOSS peer reviewer** - Reviewing academic papers as an undergraduate
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Current Interests
 
-- **Multi-agent systems** - How to make AI agents that don't hate each other
-- **Performance optimization** - Making slow things fast (and fast things faster)
-- **Developer experience** - Why do most dev tools suck and how do we fix it?
-- **Research writing** - Turning code experiments into actual science
+- **Multi-agent systems** - Exploring coordination and orchestration patterns
+- **Performance optimization** - Making systems faster and more efficient
+- **Developer experience** - Improving tools and workflows for better productivity
+- **Research writing** - Bridging practical implementation with academic contributions
 
 ---
 
 ## 🤝 Community & Impact
 
-**Open Source Contributions:** Building tools that solve real problems, not just padding my GitHub green squares
+**Open Source:** Building practical tools that solve real developer problems and contribute to the ecosystem
 
-**Research & Academia:** Peer reviewing for JOSS, contributing to computer science research
+**Research & Academia:** Peer reviewing for JOSS and contributing to computer science research
 
-**Mentoring:** Helping other students navigate the gap between classroom theory and production reality
+**Mentoring:** Helping students transition from academic learning to real-world software development
 
-**Speaking:** Available for tech talks on full-stack development, AI/ML, and starting early in tech
-
----
-
-## 💭 What I Believe
-
-- **Ship early, iterate fast** - Perfect is the enemy of done
-- **Developer experience matters** - Bad tools create bad software
-- **Age is just a number** - Good code doesn't care how old you are
-- **Open source wins** - Better together than alone
-- **Research + Practice** - Theory without implementation is just academic masturbation
+**Speaking:** Available for talks on full-stack development, AI/ML engineering, and early career experiences
 
 ---
 
-## 🚀 Let's Build Something
+## 💭 Core Principles
 
-Looking for opportunities to work on challenging problems with smart people. Especially interested in:
+- **Ship early, iterate fast** - Continuous improvement over perfection
+- **Developer experience matters** - Good tools enable great software
+- **Open source collaboration** - Building better solutions together
+- **Research meets practice** - Combining theory with real-world implementation
 
-- **Full-stack development roles** where I can make real impact
-- **AI/ML projects** that works 🧔
-- **Open source collaborations** that matter to developers
-- **Research partnerships** bridging academia and industry
+---
 
-**Status:** Open to internships, part-time roles, and interesting projects while finishing my degree
+## 🚀 Open to Opportunities
+
+Interested in challenging projects with talented teams. Looking for:
+
+- **Full-stack development roles** with meaningful impact
+- **AI/ML projects** pushing technical boundaries
+- **Open source collaborations** benefiting the developer community
+- **Research partnerships** connecting academia and industry
+
+**Status:** Available for internships, part-time roles, and collaborative projects while completing my degree
 
 <div align="center">
   
@@ -218,5 +214,5 @@ Looking for opportunities to work on challenging problems with smart people. Esp
 
 ---
 <div align="center">
-  <sub>I am hungry I want sushi now<sub>
+  <sub>Walk, Learn, Sleep</sub>
 </div>
