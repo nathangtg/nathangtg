@@ -184,15 +184,6 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## Core Principles
-
-- **Ship early, iterate fast** - Continuous improvement over perfection
-- **Developer experience matters** - Good tools enable great software
-- **Open source collaboration** - Building better solutions together
-- **Research meets practice** - Combining theory with real-world implementation
-
----
-
 ## Open to Opportunities
 
 Interested in challenging projects with talented teams. Looking for:
