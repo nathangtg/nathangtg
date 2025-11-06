@@ -11,7 +11,7 @@
 
 ## About Me
 
-currently shipping ML/AI solutions to production at Labelbox while building open-source tools that 51,000+ developers use. In my 5th semester of Software Engineering, balancing academics with real-world projects that matter.
+currently researching ML/AI solutions under Sunway University while building open-source tools that developers use. In my 5th semester of Software Engineering, balancing academics with real-world projects that matter.
 
 **What drives me:** Creating developer tools that actually solve problems and make workflows better.
 
