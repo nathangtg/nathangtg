@@ -44,7 +44,7 @@ DOI: [10.5281/zenodo.15334024](https://doi.org/10.5281/zenodo.15334024)
 ### **Software Engineer (AI & R&D)** | Mercedes-Benz Technology Malaysia | *Jan 2025 - Present*
 *Incubation Lab*
 
-Building AI-powered automotive solutions through model fine-tuning and software development.
+Building AI-powered solutions through model fine-tuning and software development.
 
 ### **Software Engineer (ML/AI)** | Labelbox, Inc | *Feb 2025 - Sep 2025*
 *Remote from Malaysia → San Francisco*
