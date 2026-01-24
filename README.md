@@ -19,7 +19,32 @@ currently researching ML/AI solutions under Sunway University while building ope
 
 ---
 
+## Research Publications
+
+**Zonal Graph Quantization: Optimizing Memory-Performance Trade-off in Vector Search**  
+*TechRxiv Preprint* | December 2025  
+DOI: [10.36227/techrxiv.176704895.53855035/v1](https://doi.org/10.36227/techrxiv.176704895.53855035/v1)
+
+**The Agent Hub Architecture: A Framework for Resilient, Efficient, and Specialized Multi-Agent AI Orchestration**  
+*Zenodo* | September 2025  
+DOI: [10.5281/ZENODO.17131426](https://doi.org/10.5281/ZENODO.17131426)
+
+**On the Practical Instability of Bio-Inspired Continual Learning**  
+*Zenodo Working Paper* | July 2025  
+DOI: [10.5281/ZENODO.15823901](https://doi.org/10.5281/ZENODO.15823901)
+
+**Holistic Analysis of Jangular: A Potential Full-Stack Framework for Java and Angular**  
+*Zenodo* | May 2025  
+DOI: [10.5281/zenodo.15334024](https://doi.org/10.5281/zenodo.15334024)
+
+---
+
 ## Experience
+
+### **Software Engineer (AI & R&D)** | Mercedes-Benz Technology Malaysia | *Jan 2025 - Present*
+*Incubation Lab*
+
+Building AI-powered automotive solutions through model fine-tuning and software development.
 
 ### **Software Engineer (ML/AI)** | Labelbox, Inc | *Feb 2025 - Sep 2025*
 *Remote from Malaysia → San Francisco*
@@ -29,14 +54,23 @@ Working on enterprise ML pipelines with measurable impact:
 - **40% more consistent AI models** - Refined rating algorithms with better metrics
 - **82% → 95% accuracy** - Hyperparameter tuning and feature selection improvements
 
-### **SDE/SRE Intern** | Valiram Group | *Aug 2024 - Dec 2024*
-*Learning enterprise systems at scale*
+### **Site Reliability Engineer** | Valiram Group | *Oct 2024 - Dec 2024*
+*Azure DevOps & Infrastructure Optimization*
 
-- **70% reduction in manual testing** - Built comprehensive automation frameworks
-- **75% → 89.5% pipeline reliability** - Implemented automated failure detection
-- **800+ concurrent tests** - Designed hybrid execution architecture
+- **400% faster test execution** - Optimized CI/CD pipelines with self-hosted agents
+- **89.5% pipeline reliability** - Implemented automated failure detection and reduced test flakiness
+- **65% reduction in code smells** - Enforced performance SLOs and quality gates with 90% test coverage
+- **40% fewer regression failures** - Integrated daily smoke testing for continuous system reliability
 
-### **IT Operations** | Don Bosco Education | *Jan 2022 - Jun 2022*
+### **Software Development Engineer in Test (SDET)** | Valiram Group | *Aug 2024 - Oct 2024*
+*Test Automation & Quality Engineering*
+
+- **70% reduction in manual testing** - Built Java-based UI test automation framework
+- **900+ automated test cases** - Developed comprehensive API testing framework
+- **55% less defect leakage** - Integrated YAML-based quality gates and daily smoke testing
+- **300% faster testing** - Reduced test execution time from 1 working day to 2 hours
+
+### **IT Operations** | An Education Institution | *Jan 2022 - Jun 2022*
 *First official tech gig*
 
 - **99.9% uptime** - Maintained Django platform for 400+ concurrent users
@@ -85,12 +119,11 @@ Working on enterprise ML pipelines with measurable impact:
     </tr>
     <tr>
       <td colspan="2">
-        <h3 align="center">Research Contributions</h3>
+        <h3 align="center">Open Source Impact</h3>
         <p align="center">
-          <strong>3 working papers on Zenodo</strong><br>
-          Agent Hub Architecture Framework<br>
-          Bio-Inspired Continual Learning Analysis<br>
-          JAngular Full-Stack Framework Evaluation<br>
+          <strong>Jangular-CLI:</strong> 51,000+ downloads on NPM<br>
+          <strong>AgentHub:</strong> Multi-agent orchestration platform<br>
+          <strong>Active contributor</strong> to developer tooling ecosystem
         </p>
       </td>
     </tr>
@@ -155,7 +188,7 @@ Working on enterprise ML pipelines with measurable impact:
 - **51,000+ NPM downloads** - Developer tools with proven adoption
 - **60% performance improvement** in production ML APIs
 - **95% AI model accuracy** - Systematic optimization and tuning
-- **3 research publications** - Contributing to computer science research
+- **4 research publications** - Contributing to computer science research (TechRxiv & Zenodo)
 - **IEEE Eta Kappa Nu member** - Top 25% globally at age 18
 - **JOSS peer reviewer** - Reviewing academic papers as an undergraduate
 
@@ -163,8 +196,10 @@ Working on enterprise ML pipelines with measurable impact:
 
 ## Current Interests
 
+- **Automotive AI** - Developing AI solutions for next-generation vehicles
 - **Multi-agent systems** - Exploring coordination and orchestration patterns
 - **Performance optimization** - Making systems faster and more efficient
+- **Vector databases & ANNS** - Optimizing memory-performance trade-offs in high-dimensional search
 - **Developer experience** - Improving tools and workflows for better productivity
 - **Research writing** - Bridging practical implementation with academic contributions
 
@@ -174,7 +209,7 @@ Working on enterprise ML pipelines with measurable impact:
 
 **Open Source:** Building practical tools that solve real developer problems and contribute to the ecosystem
 
-**Research & Academia:** Peer reviewing for JOSS and contributing to computer science research
+**Research & Academia:** Peer reviewing for JOSS and contributing to computer science research with publications on TechRxiv and Zenodo
 
 **Mentoring:** Helping students transition from academic learning to real-world software development
 
