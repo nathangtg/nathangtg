@@ -217,17 +217,13 @@ Working on enterprise ML pipelines with measurable impact:
 
 ---
 
-## Open to Opportunities
+## Current Interests
 
-Interested in challenging projects with talented teams. Looking for:
-
+Interested in challenging projects with talented teams in domains as:
 - **Full-stack development roles** with meaningful impact
 - **AI/ML projects** pushing technical boundaries
 - **Open source collaborations** benefiting the developer community
 - **Research partnerships** connecting academia and industry
-
-**Status:** Available for internships, part-time roles, and collaborative projects while completing my degree
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathangtg)
