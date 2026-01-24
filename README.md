@@ -206,15 +206,8 @@ Working on enterprise ML pipelines with measurable impact:
 ---
 
 ## Community & Impact
-
-**Open Source:** Building practical tools that solve real developer problems and contribute to the ecosystem
-
-**Research & Academia:** Peer reviewing for JOSS and contributing to computer science research with publications on TechRxiv and Zenodo
-
-**Mentoring:** Helping students transition from academic learning to real-world software development
-
-**Speaking:** Available for talks on full-stack development, AI/ML engineering, and early career experiences
-
+- **Open Source:** Building practical tools that solve real developer problems and contribute to the ecosystem
+- **Research & Academia:** Peer reviewing for JOSS and contributing to computer science research with publications on TechRxiv and Zenodo
 ---
 
 ## Current Interests
