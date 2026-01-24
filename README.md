@@ -196,7 +196,6 @@ Working on enterprise ML pipelines with measurable impact:
 
 ## Current Interests
 
-- **Automotive AI** - Developing AI solutions for next-generation vehicles
 - **Multi-agent systems** - Exploring coordination and orchestration patterns
 - **Performance optimization** - Making systems faster and more efficient
 - **Vector databases & ANNS** - Optimizing memory-performance trade-offs in high-dimensional search
