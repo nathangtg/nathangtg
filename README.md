@@ -11,7 +11,7 @@
 
 ## About Me
 
-currently researching ML/AI solutions under Sunway University while building open-source tools that developers use. In my 5th semester of Software Engineering, balancing academics with real-world projects that matter.
+currently researching ML/AI solutions under Sunway University while building open-source tools that developers use. In my 6th semester of Software Engineering, balancing academics with real-world projects that matter.
 
 **What drives me:** Creating developer tools that actually solve problems and make workflows better.
 
@@ -135,7 +135,7 @@ Working on enterprise ML pipelines with measurable impact:
 ## Education
 
 **Currently:** Bachelor of Software Engineering (Year 2/3) - CGPA: 3.78 (Dean's List Recipient)  
-*Sunway University × Lancaster University* | Semester 5/9
+*Sunway University × Lancaster University* | Semester 6/9
 
 **Completed:** Diploma in Information Technology - CGPA: 3.91 (Distinction)  
 *Sunway College* | Graduated at 17
