@@ -134,7 +134,7 @@ Working on enterprise ML pipelines with measurable impact:
 
 ## Education
 
-**Currently:** Bachelor of Software Engineering (Year 2/3) - CGPA: 3.67 (Dean's List Recipient)  
+**Currently:** Bachelor of Software Engineering (Year 2/3) - CGPA: 3.78 (Dean's List Recipient)  
 *Sunway University × Lancaster University* | Semester 5/9
 
 **Completed:** Diploma in Information Technology - CGPA: 3.91 (Distinction)  
