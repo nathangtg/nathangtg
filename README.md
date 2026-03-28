@@ -11,7 +11,7 @@
 
 ---
 
-Software/AI Engineer & LLM/AI Researcher · Y3S1 @ Sunway × Lancaster · Continuously building open-source tools.
+Software Engineer & ML/AI Researcher · Year 2 @ Sunway × Lancaster · Building open-source tools developers actually use.
 
 ---
 
@@ -69,7 +69,7 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 
 ## Education
 
-**Bachelor of Software Engineering** · Sunway × Lancaster · CGPA 3.78 · Dean's List · In Progress  
+**BSc Software Engineering** · Sunway × Lancaster · CGPA 3.78 · Dean's List · In Progress  
 **Diploma in IT** · Sunway College · CGPA 3.91 · Distinction · Graduated at 17
 
 ---
@@ -89,5 +89,7 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nathangtg&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br><br>
   <sub>Walk · Learn · Sleep</sub>
 </div>
