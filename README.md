@@ -11,7 +11,7 @@
 
 ---
 
-Software Engineer & ML/AI Researcher · Year 2 @ Sunway × Lancaster · Building open-source tools developers actually use.
+Software Engineer & ML/AI Researcher · Y2S3 @ Sunway × Lancaster · Building open-source tools developers actually use.
 
 ---
 
@@ -76,7 +76,7 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 
 ## Highlights
 
-- 51,000+ NPM downloads · IEEE Eta Kappa Nu (Top 25% globally, age 18)
+- 300,000+ NPM downloads · IEEE Eta Kappa Nu (Top 25% globally, age 18)
 - JOSS Peer Reviewer · 4 Research Publications
 
 ---
