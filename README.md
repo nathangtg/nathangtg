@@ -11,7 +11,7 @@
 
 ---
 
-Software/AI Engineer & LLM/AI Researcher · Year 2 @ Sunway × Lancaster · Continuously open-source tools.
+Software/AI Engineer & LLM/AI Researcher · Y3S1 @ Sunway × Lancaster · Continuously open-source tools.
 
 ---
 
@@ -69,7 +69,7 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 
 ## Education
 
-**BSc Software Engineering** · Sunway × Lancaster · CGPA 3.78 · Dean's List · In Progress  
+**Bachelor of Software Engineering** · Sunway × Lancaster · CGPA 3.78 · Dean's List · In Progress  
 **Diploma in IT** · Sunway College · CGPA 3.91 · Distinction · Graduated at 17
 
 ---
