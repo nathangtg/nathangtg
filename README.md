@@ -11,7 +11,7 @@
 
 ---
 
-Software Engineer & ML/AI Researcher · Y2S3 @ Sunway × Lancaster · Building open-source tools developers actually use.
+Software Engineer & ML/AI Researcher · Y2S3 @ Sunway × Lancaster · Building open-source tools for Development.
 
 ---
 
@@ -19,11 +19,11 @@ Software Engineer & ML/AI Researcher · Y2S3 @ Sunway × Lancaster · Building o
 
 | Role | Company | Period |
 |------|---------|--------|
-| Software Engineer (AI & R&D) | Mercedes-Benz Technology Malaysia | Jan 2025 – Present |
-| Software Engineer (ML/AI) | Labelbox, Inc | Feb 2025 – Sep 2025 |
-| Site Reliability Engineer | Valiram Group | Oct 2024 – Dec 2024 |
-| SDET | Valiram Group | Aug 2024 – Oct 2024 |
-| IT Operations | An Education Institution | Jan 2022 – Jun 2022 |
+| AI Engineer, Intern | Mercedes-Benz Technology Malaysia | Jan 2026 – Jul 2026 |
+| AI Researcher (GCA Team), Contract | Google DeepMind (as XWF) | May 2025 – Sep 2025 |
+| Software Engineer (ML/AI), Contract | Labelbox, Inc | Feb 2025 – Sep 2025 |
+| Software Engineer – SRE, Intern | Valiram Group | Aug 2024 – Dec 2024 |
+| Software Engineer, Apprenticeship | Software Mansion | Apr 2024 – Feb 2025 |
 
 ---
 
@@ -50,16 +50,20 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -69,15 +73,19 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 
 ## Education
 
-**BSc Software Engineering** · Sunway × Lancaster · CGPA 3.78 · Dean's List · In Progress  
-**Diploma in IT** · Sunway College · CGPA 3.91 · Distinction · Graduated at 17
+**Bachelor of Software Engineering (Dual Award)** · Sunway × Lancaster · CGPA 3.78 · Dean's List · Apr 2025 – Apr 2027  
+**Diploma in Information Technology** · Sunway College · CGPA 3.91 · Distinction · Graduated Jan 2025
 
 ---
 
 ## Highlights
 
-- 300,000+ NPM downloads · IEEE Eta Kappa Nu (Top 25% globally, age 18)
-- JOSS Peer Reviewer · 4 Research Publications
+- **51,000+ NPM downloads** on Jangular-CLI · 9k in first 5 hours
+- **Google DeepMind** — Invited researcher on Gemini Code Assist Agents preview
+- **IEEE Eta Kappa Nu** — Inducted member, Top 25% globally (age 18)
+- **JOSS Peer Reviewer** — CS & Maths track, Software Architecture & DevOps
+- **4 Research Publications** — TechRxiv & Zenodo
+- **Certifications** — CEH (Cisco) · Google Cloud Core Infrastructure · Oracle Cloud Infrastructure (Foundations + AI)
 
 ---
 
