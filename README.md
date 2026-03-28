@@ -90,7 +90,6 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangtg&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathangtg&theme=tokyonight&hide_border=false" alt="Streak" height="160em"/>
 </div>
 
