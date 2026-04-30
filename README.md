@@ -73,7 +73,7 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 
 ## Education
 
-**Bachelor of Software Engineering (Dual Award)** · Sunway × Lancaster · CGPA 3.78 · Dean's List · Apr 2025 – Apr 2027  
+**Bachelor of Software Engineering (Dual Award)** · Sunway × Lancaster · CGPA 3.80 · Dean's List · Apr 2025 – Apr 2027  
 **Diploma in Information Technology** · Sunway College · CGPA 3.91 · Distinction · Graduated Jan 2025
 
 ---
