@@ -11,7 +11,7 @@
 
 ---
 
-Software Engineer/AI & LLM/AI Researcher · Y2S3 @ Sunway × Lancaster · Building open-source tools for Development.
+Software Engineer/AI & LLM/AI Researcher · Y3S1 @ Sunway × Lancaster · Building open-source tools for Development.
 
 ---
 
