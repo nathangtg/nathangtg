@@ -19,7 +19,8 @@ Software Engineer/AI & LLM/AI Researcher · Y3S1 @ Sunway × Lancaster · Buildi
 
 | Role | Company | Period |
 |------|---------|--------|
-| AI Engineer, Intern | Mercedes-Benz Technology Malaysia | Jan 2026 – Jul 2026 |
+| AI Engineer, Contract | Mercedes-Benz Technology Malaysia | Apr 2026 – Present |
+| AI Engineer, Intern | Mercedes-Benz Technology Malaysia | Jan 2026 – Apr 2026 |
 | AI Researcher (GCA Team), Contract | Google DeepMind (as XWF) | May 2025 – Sep 2025 |
 | Software Engineer (ML/AI), Contract | Labelbox, Inc | Feb 2025 – Sep 2025 |
 | Software Engineer – SRE, Intern | Valiram Group | Aug 2024 – Dec 2024 |
