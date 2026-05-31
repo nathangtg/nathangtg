@@ -21,7 +21,7 @@ Software/AI Engineer, AI/DL Researcher · Y3S1 @ SunwayU · Building open-source
 | AI Engineer, Intern | Mercedes-Benz Technology | Jan 2026 – Apr 2026 |
 | AI Researcher (GCA Team) | Google DeepMind (as XWF) | May 2025 – Sep 2025 |
 | Software Engineer (AI/ML Focus) | LabelBox Inc. | Feb 2025 – Sep 2025 |
-| Software Engineer – SRE, Intern | Valiram Group | Aug 2024 – Dec 2024 |
+| Software Engineer – SDET/SRE, Intern | Valiram Group | Aug 2024 – Dec 2024 |
 | Software Engineer Apprentice | Software Mansion | Apr 2024 – Dec 2024 |
 
 ---
