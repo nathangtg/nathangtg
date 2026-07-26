@@ -58,13 +58,11 @@ Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architectur
 
 ## Highlights
 
-- **300,000+ NPM downloads** on Jangular-CLI · 9k in first 5 hours
-- **Google DeepMind** — Extended Workforce researcher on Gemini Code Assist Agents preview
-- **IEEE Eta Kappa Nu** — Inducted member, Top 25% globally (age 18)
-- **JOSS Peer Reviewer** — CS & Maths track, Software Architecture & DevOps
-- **4 Research Publications** — TechRxiv & Zenodo
-- **Certifications** — CEH (Cisco) · Google Cloud Core Infrastructure · Oracle Cloud Infrastructure (Foundations + AI)
-
+- **300,000+ NPM downloads** on Jangular-CLI
+- **Google DeepMind**'s Extended Workforce researcher on Gemini Code Assist Agents preview
+- **IEEE Eta Kappa Nu** Inducted member, Top 25% globally (age 18)
+- **JOSS Peer Reviewer** for CS & Maths track, Software Architecture & DevOps
+- **5 Research Publications** on AI/ML and Software Architecture
 ---
 
 <div align="center">
