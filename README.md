@@ -32,7 +32,7 @@ Software/AI Engineer, AI/DL Researcher · Y3S1 @ SunwayU · Building open-source
 
 | Title | Venue | Date |
 |-------|-------|------|
-| [The Machine Proposes, The Proof Disposes: Neuro-Symbolic Synthesis of Formally Verified Markov Usage Models from Natural Language Requirements]([https://doi.org/10.5281/zenodo.15334024](https://doi.org/10.21203/rs.3.rs-10481051/v1)) | Research Square | July 2026 |
+| [The Machine Proposes, The Proof Disposes: Neuro-Symbolic Synthesis of Formally Verified Markov Usage Models from Natural Language Requirements](https://doi.org/10.5281/zenodo.15334024](https://doi.org/10.21203/rs.3.rs-10481051/v1)) | Research Square | July 2026 |
 | [Zonal Graph Quantization: Optimizing Memory-Performance Trade-off in Vector Search](https://doi.org/10.36227/techrxiv.176704895.53855035/v1) | TechRxiv | Dec 2025 |
 | [The Agent Hub Architecture: A Framework for Resilient, Efficient, and Specialized Multi-Agent AI Orchestration](https://doi.org/10.5281/ZENODO.17131426) | Zenodo | Sep 2025 |
 | [On the Practical Instability of Bio-Inspired Continual Learning](https://doi.org/10.5281/ZENODO.15823901) | Zenodo | Jul 2025 |
