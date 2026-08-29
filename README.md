@@ -10,7 +10,7 @@
 
 ---
 
-Software/AI Engineer, AI/DL Researcher · Y3S1 @ SunwayU · Building open-source tools for Development.
+Software/AI Engineer, AI/DL Researcher · Y3 @ SunwayU · Building open-source tools for Development.
 
 ---
 
