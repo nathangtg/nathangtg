@@ -43,16 +43,16 @@ Software/AI Engineer, AI/DL Researcher · Y3 @ SunwayU · Building open-source t
 ## Projects
 
 **[Jangular-CLI](https://github.com/nathangtg/jangular-cli)** · [![npm](https://img.shields.io/npm/dt/jangular-cli?style=flat-square&color=success)](https://www.npmjs.com/package/jangular-cli)  
-Spring Boot + Angular CLI · 51,000+ downloads · 9k in first 5 hours
+Spring Boot + Angular CLI · 300,000+ downloads 
 
 **[AgentHub](https://github.com/nathangtg/agent-hub)** · [![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/54Q5zCX944E)  
-Multi-agent AI orchestration · 9 agents · 100+ tools · Zero Trust architecture
+Multi-agent AI orchestration · 9 agents · 100+ tools 
 
 ---
 
 ## Education
 
-**Bachelor of Software Engineering (Dual Award)** · Sunway × Lancaster · CGPA 3.80 · Dean's List · Apr 2025 – Apr 2027  
+**Bachelor of Software Engineering (Dual Award)** · Sunway × Lancaster · CGPA 3.86 · Dean's List · Apr 2025 – Apr 2027  
 **Diploma in Information Technology** · Sunway College · CGPA 3.91 · Distinction · Graduated Jan 2025
 
 ---
