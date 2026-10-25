@@ -28,15 +28,17 @@ Tinkering primarily with Python, Golang and Java
 
 ## Selected Work
 
-**[Jangular-CLI](https://github.com/nathangtg/jangular-cli)**  
-Spring Boot + Angular CLI automation toolchain.
+**[Jangular-CLI](https://github.com/nathangtg/jangular-cli)** · *Developer Tooling*  
+Spring Boot + Angular CLI automation toolchain.  
+*Commercially acquired; development continued in-house as inner-source.* </br>
+[![npm downloads](https://img.shields.io/npm/dt/jangular-cli?style=flat-square&label=npm%20downloads&color=555555&logo=npm&logoColor=white)](https://www.npmjs.com/package/jangular-cli) **400K+ downloads**  
 
-[![npm downloads](https://img.shields.io/npm/dt/jangular-cli?style=flat-square&color=blue)](https://www.npmjs.com/package/jangular-cli) **400,000+ downloads**
+**[AgentHub](https://github.com/nathangtg/agent-hub)** · *Agentic Systems*  
+Resilient multi-agent orchestration framework with 9 agents and 100+ tools.  
+[![Demo](https://img.shields.io/badge/Demo-Watch-555555?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/54Q5zCX944E)
 
-**[AgentHub](https://github.com/nathangtg/agent-hub)**  
-Resilient multi-agent orchestration framework with 9 agents and 100+ tools.
-
-[![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/54Q5zCX944E)
+**[Legal Guard RegTech](https://github.com/nathangtg/legal-guard-regtech)** · *Applied AI*  
+AI-powered RegTech project focused on legal and regulatory workflows.
 
 ---
 
