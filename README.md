@@ -18,7 +18,7 @@ Mainly using Python and a mix of Go and Java
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
-| **Software Engineer, AI/ML** | [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en) | Apr 2026 – Present |
+| **Software Engineer, AI/ML** | [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en) | Jan 2026 – Present |
 | **Research Engineer, Post-Training** | [Google DeepMind](https://deepmind.google/) · *Extended Workforce* | May 2025 – Sep 2025 |
 | **Software Engineer, AI/ML** | [Labelbox](https://labelbox.com/) | Feb 2025 – Sep 2025 |
 | **Software Engineer Intern, SRE / Automation** | [Valiram Group](https://valiram.com/) | Aug 2024 – Dec 2024 |
