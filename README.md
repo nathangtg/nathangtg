@@ -9,8 +9,8 @@
 
 ---
 
-Software Engineer & Deep Learning Researcher doing Enterprise OSS, Applied AI & Foundation Model Post-Training </br>
-Tinkering primarily with Python, Golang and Java
+Software Engineer working across Software Systems, Applied AI, and Open Source. </br>
+Mainly using Python and a mix of Go and Java
 
 ---
 
